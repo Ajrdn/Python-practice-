@@ -1,0 +1,21 @@
+num1 = 4
+num2 = 10
+
+print(num1 < num2)
+print(num1 > num2)
+print(num1 <= num2)
+print(num1 >= num2)
+print(num1 == num2)
+print(num1 != num2)
+print(True and True)
+print(True and False)
+print(False and True)
+print(False and False)
+print(True or True)
+print(True or False)
+print(False or True)
+print(False or False)
+print(not True)
+print(not False)
+print(num1 < 0 and num2 % 2 == 0)
+print(num1 < 0 or num2 % 2 == 0)
